@@ -1,3 +1,5 @@
+alert("zoom out to 90% if you are on PC");
+
 const facts = [
     "Welcome to my website(still in wip)",
     "I'm bad at scripting😭",
@@ -63,7 +65,7 @@ const facts = [
 const texts = [
   "amongussy",
   "sussyrizz",
-  "ABDI IS GAY - data:text/html 2024-2025",
+  "ABDI IS GAY",
   "mewing is sigma🤫🧏"
 ];
 
