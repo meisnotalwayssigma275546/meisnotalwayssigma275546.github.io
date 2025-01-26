@@ -4,7 +4,7 @@
 <h2>「 H O W A R E Y O U」</h1>
 
 <h3>「 F I N E, T H A N K Y O U」</h3>
-![mug,standard,x1000,center-pad,750x1000,f8f8f8](https://github.com/user-attachments/assets/f65d8b1d-e9fe-49c8-af67-870e9a12e3f3)
+
 
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Press+Start+2P&family=Sixtyfour+Convergence&family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
 
