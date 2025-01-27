@@ -10,3 +10,13 @@
 
 
 <h1 id="SUS" style="font-family: "Sixtyfour Convergence";">Im in your closet.</h1>
+
+
+
+<style>
+   Body{
+     color: linear-gradient(red,blue)
+
+
+   }
+</style>
