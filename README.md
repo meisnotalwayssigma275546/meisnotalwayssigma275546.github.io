@@ -13,10 +13,3 @@
 
 
 
-<style>
-   Body{
-     color: linear-gradient(red,blue)
-
-
-   }
-</style>
