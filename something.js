@@ -4,7 +4,7 @@ const facts = [
     "Welcome to my website(still in wip)",
     "I'm bad at scripting😭",
     "I made this website to prove my older brother that i can make a web(he told me its impossible)",
-    "Did you know that I used chatgpt to create this because I don't know how to script javascript?(9.1% of the website",
+    "Did you know that I used chatgpt to create this because I don't know how to script javascript?",
     "Edging rizzler is the best🤫🧏",
     "Did you know this website is being made to be an unblocker because some guy called jase asked me to make an unblocker(not really)?",
     "Did you know that this was inspired by that one data:text/html website i made in december 2024?"
@@ -77,4 +77,18 @@ document.addEventListener("DOMContentLoaded", function () {
   // Set the random text to the h2 element with id 'Text'
   document.getElementById("Text").textContent = randomText;
 });
+
+
+const myLabel = document.getElementById("MyLabel")
+const myButton = document.getElementById("MyButton")
+const min = 100;
+const max = 1000;
+let RandomNum;
+myButton.onclick = function(){
+  RandomNum = Math.floor(Math.random()* max) + min;
+  myLabel.textContent = RandomNum;
+}
+
+
+
 
