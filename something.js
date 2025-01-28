@@ -66,7 +66,8 @@ const texts = [
   "amongussy",
   "sussyrizz",
   "ABDI IS GAY",
-  "mewing is sigma🤫🧏"
+  "mewing is sigma🤫🧏",
+  "I love big gay boys🤫😏"
 ];
 
 // Wait until the DOM is fully loaded
