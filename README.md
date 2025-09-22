@@ -1,2 +1,1 @@
-<h1>hi</h1>
-<button><a href="https://sigmasigmaboy-sigmaboy-sigma2222.netlify.app/">Click here to get to the website</a></button>
+<h>ADD Index.html At the end of the link like for example "https://google-snake-snakke-google.vercel.app/v/8/index.html" for it to work (btw i did not make it its forked)</h>
